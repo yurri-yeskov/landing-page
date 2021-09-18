@@ -88,6 +88,7 @@ hr {
   text-transform: uppercase;
   height: 0px;
   padding: 0px 15px;
+  margin-left: 20px;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
